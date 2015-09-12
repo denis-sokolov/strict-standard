@@ -9,7 +9,9 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-The [standard JavaScript code style by feross](https://github.com/feross/standard) is a great step to standardize the look and feel of JavaScript source files. Strict Standard uses that and adds on top of it the amazing capabilities of ESLint to detect actual errors in your code.
+The [standard JavaScript code style by feross](https://github.com/feross/standard) is a great step to standardize the look and feel of JavaScript source files. Strict Standard uses that and adds on top of it the amazing capabilities of ESLint to detect actual errors in your code. There are **no style differences** from the main standard, only **more error catching**.
+
+As new heuristics for catching errors are added to ESLint, they will be added to Strict Standard bumping the major number accordingly. If you use Strict Standard, you can be sure, that all the best tools to catch errors in your code are all being applied to your code.
 
 ## Usage
 
