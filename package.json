@@ -1,0 +1,50 @@
+{
+  "name": "strict-standard",
+  "version": "0.0.0",
+  "description": "JavaScript Strict Standard Style",
+  "bin": "src/bin.js",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:denis-sokolov/strict-standard.git"
+  },
+  "keywords": [
+    "check",
+    "checker",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "code",
+    "enforce",
+    "eslint",
+    "eslintconfig",
+    "hint",
+    "JavaScript Strict Standard Style",
+    "jscs",
+    "jshint",
+    "lint",
+    "policy",
+    "quality",
+    "simple",
+    "standard style",
+    "standard",
+    "strict",
+    "style checker",
+    "style linter",
+    "style",
+    "verify",
+    "standard"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denis-sokolov/strict-standard/issues"
+  },
+  "homepage": "https://github.com/denis-sokolov/strict-standard",
+  "dependencies": {
+    "eslint": "^1.4.0",
+    "eslint-config-strict-standard": "^1.0.0",
+    "eslint-plugin-standard": "^1.3.0",
+    "standard-engine": "^2.0.7"
+  }
+}
