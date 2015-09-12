@@ -27,7 +27,7 @@ Add the following to your `package.json`:
 }
 ```
 
-Alternatively, use [an eslint config](https://github.com/denis-sokolov/strict-standard-config) directly.
+Alternatively, use [an eslint config](https://github.com/denis-sokolov/strict-standard-config) directly. That allows contributors who have eslint integrated in their editors get the correct errors without any setup.
 
 ## Badge
 
