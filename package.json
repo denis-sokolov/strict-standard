@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/denis-sokolov/strict-standard",
   "dependencies": {
-    "eslint": "^2.8.0",
+    "eslint": "^3.5.0",
     "eslint-config-strict-standard": "^3.0.1",
     "eslint-plugin-promise": "^1.1.0",
     "eslint-plugin-standard": "^1.3.2",
